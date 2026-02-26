@@ -1,1 +1,1 @@
-"Proyecto bimestral" 
+"frontend de Proyecto bimestral" 
